@@ -1,6 +1,5 @@
-torch==1.6.0+cpu
-torchvision==0.7.0+cpu
+torch
+torchvision
 gradio
-bert-extractive-summarizer==0.4.2
+bert-extractive-summarizer
 summarizer
-
